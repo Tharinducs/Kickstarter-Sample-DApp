@@ -1,4 +1,5 @@
 # Kickstarter-Sample-DApp
 
-#To run this hit 
+Downlod  or  clone  and  hit  npm  install  to  install  dependancies
+To run this hit 
 	npm run dev
